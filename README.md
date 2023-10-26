@@ -1,6 +1,7 @@
 # wheather_app
 
 Introducing my new Flutter weather app! 🌦️📱 It delivers real-time weather data, keeping you in the know about the latest conditions. Stay informed with just a tap!
+![weather app](https://github.com/alimehdirazab/flutter-weather-app/assets/135409467/68dd161a-d593-4575-8db8-d5fa20b4d5a6)
 
 ## Getting Started
 
