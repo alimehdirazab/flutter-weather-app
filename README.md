@@ -1,6 +1,6 @@
 # wheather_app
 
-A new Flutter project.
+Introducing my new Flutter weather app! 🌦️📱 It delivers real-time weather data, keeping you in the know about the latest conditions. Stay informed with just a tap!
 
 ## Getting Started
 
